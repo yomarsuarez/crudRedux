@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "pan arabe",
+      "precio": "37",
+      "id": 4
+    },
+    {
+      "nombre": "jamon",
+      "precio": 22,
+      "id": 9
+    },
+    {
+      "nombre": "queso",
+      "precio": 20,
+      "id": 10
+    },
+    {
+      "nombre": "huevos",
+      "precio": 17,
+      "id": 11
+    }
+  ]
+}
